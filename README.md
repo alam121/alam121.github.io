@@ -1,7 +1,6 @@
-# Robotics/ Research Engineer
+# Syed Alam
 
-Welcome to my website! I'm Syed Alam, and this is where I showcase some of my most notable projects and provide information about myself.
-
+I'm Syed Muhammad Alam, an engineer with expertise in Robotics, Biomedical devices, and Machine Learning. My background includes working with perception technologies like RGB/Depth cameras and Lidars, prediction algorithms, and motion planning. My skills range from PyTorch, TensorFlow, and OpenCV to MATLAB simulation tools and Embedded  programming. I have experience in ROS/ROS2 development, embedded systems, and biomedical signal analysis.
 
 
 ![Profile Picture](link_to_profile_picture.png)
@@ -15,6 +14,15 @@ Welcome to my website! I'm Syed Alam, and this is where I showcase some of my mo
 ## About Me
 
 Introduce yourself briefly. Share your background, skills, and what drives your passion for technology. Consider mentioning your career goals or interests.
+### Education
+
+- **Master’s Degree:** Lahore University of Management Sciences (2021-2023)
+  - Major: Electrical Engineering
+  - Concentrations: Robotics, Embedded Systems, Machine Learning
+
+- **Bachelor's Degree:** University of Engineering & Technology (2016-2020)
+  - Major: Electrical Engineering
+  - CGPA: 3.47
 
 ## Projects
 
