@@ -50,10 +50,6 @@ Feel free to reach out to me! You can connect with me on social media, check out
 
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ## Resume
-
-If you have an online version of your resume or a PDF version, you can link it here.
-
-[View Resume](resume.pdf)
+[View Resume](https://github.com/alam121/alam121.github.io/blob/main/SyedAlam_CV.pdf)
