@@ -29,7 +29,7 @@ I'm Syed Muhammad Alam, an engineer with expertise in Robotics, Biomedical devic
 
 ## Projects
 
-### Project 1: Master’s Thesis: Unstructured Terrain Navigation for Mobile Agricultural Robot Using  Self-Supervised Learning
+#### Master’s Thesis: Unstructured Terrain Navigation for Mobile Agricultural Robot Using  Self-Supervised Learning
 
 - **Description:** In this thesis project, I developed a BLDC-based differential drive autonomous ground robot capable of moving through crop rows. I interfaced sensors for odometry, IMU, Realsense camera, and GPS for ROS. I also developed an online self-supervised network to learn terrain surface properties, enabling the computation of robot-specific 2D surface cost maps. Additionally, I developed a visual crop row navigation algorithm that computes dynamically feasible trajectories by accounting for different surface costs.
 
