@@ -17,7 +17,6 @@ I'm Syed Muhammad Alam, an engineer with expertise in Robotics, Biomedical devic
 
 ## About Me
 
-Introduce yourself briefly. Share your background, skills, and what drives your passion for technology. Consider mentioning your career goals or interests.
 ### Education
 
 - **Master’s Degree:** Lahore University of Management Sciences (2021-2023)
@@ -30,9 +29,9 @@ Introduce yourself briefly. Share your background, skills, and what drives your 
 
 ## Projects
 
-### Project 1: Project Name
+### Project 1: Master’s Thesis: Unstructured Terrain Navigation for Mobile Agricultural Robot Using  Self-Supervised Learning
 
-Provide a short description of the project. Include any relevant technologies used and the project's impact or significance.
+- **Description:** In this thesis project, I developed a BLDC-based differential drive autonomous ground robot capable of moving through crop rows. I interfaced sensors for odometry, IMU, Realsense camera, and GPS for ROS. I also developed an online self-supervised network to learn terrain surface properties, enabling the computation of robot-specific 2D surface cost maps. Additionally, I developed a visual crop row navigation algorithm that computes dynamically feasible trajectories by accounting for different surface costs.
 
 ![Project 1 Screenshot](project1_screenshot.png)
 
@@ -52,7 +51,7 @@ Describe your second project similarly, including a brief overview and any relev
 
 Feel free to reach out to me! You can connect with me on social media, check out my other profiles, or send me an email.
 
-- Email: (mailto:alamsyedmo@gmail.com)
+- Email: [alamsyedmo@gmail.com](mailto:alamsyedmo@gmail.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/syedmalam121/)
 
 ## Resume
