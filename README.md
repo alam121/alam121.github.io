@@ -3,7 +3,7 @@
 I'm Syed Muhammad Alam, an engineer with expertise in Robotics, Biomedical devices, and Machine Learning. My background includes working with perception technologies like RGB/Depth cameras and Lidars, prediction algorithms, and motion planning. My skills range from PyTorch, TensorFlow, and OpenCV to MATLAB simulation tools and Embedded  programming. I have experience in ROS/ROS2 development, embedded systems, and biomedical signal analysis.
 
 
-![Profile Picture](https://github.com/alam121/alam121.github.io/blob/main/2021-06-0007.png)
+![Profile Picture](2021-06-0007.png)
 
 ## Table of Contents
 - [About Me](#about-me)
