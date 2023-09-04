@@ -48,8 +48,8 @@ Describe your second project similarly, including a brief overview and any relev
 
 Feel free to reach out to me! You can connect with me on social media, check out my other profiles, or send me an email.
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: [your.email@example.com](mailto:alamsyedmo@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/syedmalam121/)
 
 ## Resume
 [View Resume](https://github.com/alam121/alam121.github.io/blob/main/SyedAlam_CV.pdf)
